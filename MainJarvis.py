@@ -87,11 +87,6 @@ if __name__=="__main__":
         elif 'hello peter' in query:
             speak("Hello Sir How may I Help you")
 
-        elif 'gu kha le' in query:
-            speak("Tu kha b s d k")
-
-        elif 'mere babu ne khana khaya' in query:
-            speak("Nahi degi wo b s d k soja")
 
         # elif 'play Dekha Ek Khwaab' in query:
         #    playsound("D:\\main\\My music\\01 DEKHA EK KHAWAB TO.mp3")
@@ -171,7 +166,7 @@ if __name__=="__main__":
 #def sendEmail(to, content):
     
 #dictionary bana ke key me name or words me email add 
-#        elif 'email to harry' in query:
+#        elif 'email to mihir' in query:
 #            try:
 #                speak("What should I say")
 #                content = takeCommand()
